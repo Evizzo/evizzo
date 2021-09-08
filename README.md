@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Evizzo
 - 👀 I’m interested in software engineering ;D
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on improving my skills
 - 📫 How to reach me: Instagram @akastefvn
