@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Evizzo
-- 👀 I’m interested in software engineering ;D
-- 📫 How to reach me: Instagram @akastefvn
+- 👋 [Instagram](https://www.instagram.com/akastefvn/)
+- 👀 [Discord server](https://discord.com/invite/Ya6MsrUfMM)
