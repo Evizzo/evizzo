@@ -21,6 +21,6 @@ Tools: Docker, GitHub
 
 Email: stefanmatic941@gmail.com
 
-LinkedIn: Stefan Matić
+LinkedIn: [Stefan Matić](https://www.linkedin.com/in/stefan-mati%C4%87-02276426a/)
 
 Feel free to reach out or connect! Always open to collaboration and new opportunities. 🚀
