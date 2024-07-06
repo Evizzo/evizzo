@@ -1,9 +1,8 @@
 # **Skills**
 
-Languages: Java, TypeScript, HTML, CSS
-
-Frameworks/Libraries: Spring Boot, React, Bootstrap
-
-Databases: MySQL
-
-Tools/Technologies: Docker, Spring Security, Spring Data JPA/Hibernate, Mockito, JUnit
+Programming Languages: Java.
+Frontend: HTML, CSS, React, Bootstrap, TypeScript.
+Backend: Spring Boot, Spring Security, JPA/Hibernate.
+Database: MySQL.
+Testing: Mockito, JUnit.
+Other: Docker, GitHub.
