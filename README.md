@@ -1,7 +1,3 @@
-# **About Me**
-
-Dynamic and results-driven Java Developer with expertise in Spring Boot, enthusiastic about developing robust and scalable applications. Committed to continuous growth and staying updated with emerging technologies, I thrive in collaborative environments that foster innovation and learning.
-
 # **Skills**
 
 Languages: Java, TypeScript, HTML, CSS
