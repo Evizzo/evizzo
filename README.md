@@ -17,14 +17,6 @@ Testing: Mockito, JUnit
 
 Tools: Docker, GitHub
 
-### 🌟 Currently Working On http://www.gdedaizadjemna.ovh/
-
-I'm working on a project where users can search for places by tags or name.
-
-Each place has detailed profiles with menu and ambiance photos, along with guest reviews for informed decisions. 
-
-For business owners, the platform offers tools to create attractive profiles with separate menu, ambiance images, and more.
-
 ### 📫 Contact
 
 Email: stefanmatic941@gmail.com
