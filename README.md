@@ -21,8 +21,6 @@ Tools: Docker, GitHub
 
 Email: stefanmatic941@gmail.com
 
-GitHub: @Evizzo
-
 LinkedIn: Stefan Matić
 
 Feel free to reach out or connect! Always open to collaboration and new opportunities. 🚀
