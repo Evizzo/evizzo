@@ -5,11 +5,9 @@ I’m a dynamic and results-driven Web Developer with a passion for creating rob
 
 ### 🚀 Skills
 
-Languages: Java
-
 Frontend: HTML, CSS, React, Bootstrap
 
-Backend: Spring Boot, Spring Security, JPA/Hibernate, TypeScript
+Backend: Java, Spring Boot, Spring Security, JPA/Hibernate, TypeScript
 
 Databases: MySQL
 
