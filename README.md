@@ -3,18 +3,6 @@
 I’m a dynamic and results-driven Web Developer with a passion for creating robust and scalable applications.
 
 
-### 🚀 Skills
-
-Frontend: HTML, CSS, React, Bootstrap.
-
-Backend: Java, Spring Boot, Spring Security, JPA/Hibernate, TypeScript.
-
-Databases: MySQL.
-
-Testing: Mockito, JUnit.
-
-Tools: Docker, GitHub.
-
 ### 📫 Contact
 
 Email: stefanmatic941@gmail.com
