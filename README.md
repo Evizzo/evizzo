@@ -5,8 +5,8 @@ I’m a dynamic and results-driven Web Developer with a passion for creating rob
 
 ### 📫 Contact
 
-Email: stefanmatic941@gmail.com
+stefanmatic941@gmail.com
 
-LinkedIn: [Stefan Matić](https://www.linkedin.com/in/stefan-mati%C4%87-02276426a/)
+[LinkedIn](https://www.linkedin.com/in/evizzo/)
 
 Feel free to reach out or connect! Always open to collaboration and new opportunities. 🚀
