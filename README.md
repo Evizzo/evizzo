@@ -1,6 +1,7 @@
 ### Hi there! 👋 I'm Stefan Matić
 
 Developer skilled in Java, Spring Boot, React, MySQL, and Docker. 
+
 I focus on creating scalable systems using microservices, REST APIs, and modern web technologies.
 
 ### 📫 Contact
