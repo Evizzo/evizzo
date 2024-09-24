@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Stefan Matić
 
-I’m a dynamic and results-driven Web Developer with a passion for creating robust and scalable applications.
-
+Developer skilled in Java, Spring Boot, React, MySQL, and Docker. 
+I focus on creating scalable systems using microservices, REST APIs, and modern web technologies.
 
 ### 📫 Contact
 
