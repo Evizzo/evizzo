@@ -1,9 +1,5 @@
 ### Hi there! 👋 I'm Stefan Matić
 
-Developer skilled in Java, Spring Boot, React, MySQL, Python and Docker. 
-
-- - -
-
 ### 📫 Contact
 
 stefanmatic941@gmail.com
